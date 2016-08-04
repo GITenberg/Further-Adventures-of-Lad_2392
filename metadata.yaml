@@ -1,0 +1,53 @@
+_repo: Further-Adventures-of-Lad_2392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: "Further Adventures of Lad, also known as Dog Stories Every Child Should\
+  \ Know, is a 1922 American novel written by Albert Payson Terhune and published\
+  \ by George H. Doran. A follow-up to Lad: A Dog, it contains an additional eleven\
+  \ short stories featuring a fictional version of Terhune's real-life rough collie\
+  \ Lad, including the stories of Lad's initial arrival at the \"Place\", the death\
+  \ of his mate, and the day of his own death. Most of the stories were originally\
+  \ published in various magazines, and touch on themes of justice and the concepts\
+  \ of right and wrong. Terhune notes that he decided to publish the novel due to\
+  \ numerous letters received in response to the first novel, and the thousands of\
+  \ visitors who came to Sunnybank to visit the real-life Lad's grave. Though he initially\
+  \ intended for Further Adventures of Lad to be the final book of Lad stories, he\
+  \ would eventually publish one more book of stories, Lad of Sunnybank in 1929.\n\
+  The novel was a bestseller and well received by fans of the first novel, as well\
+  \ as new readers. Critics praised the stories as \"charming\" and \"entertaining\"\
+  , finding Lad a \"delightful\" and desirable dog. A critic for the New York Tribune,\
+  \ however, criticized Terhune's writing style and felt Lad was an unbelievable character,\
+  \ while also still noting that book lovers would enjoy it. It was listed among H.W.\
+  \ Wilson Company's 1922 list of 10,000 books they deemed the \"most useful\". Warner\
+  \ Brothers purchased the film rights for Lad: A Dog, Further Adventures of Lad,\
+  \ and Lad of Sunnybank, intending to produce a series of films and possibly a television\
+  \ series. The first film, Lad: A Dog, was released in June 1962 but it was unsuccessful\
+  \ in the box office and the project was dropped. The novel is now a public domain\
+  \ work.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2392'
+  wikidata: Q5509743
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Folklore'
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PS'
+- GITenberg
+title: Further Adventures of Lad
+url: http://www.gutenberg.org/ebooks/2392
+wikipedia:
+- https://en.wikipedia.org/wiki/Further_Adventures_of_Lad

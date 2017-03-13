@@ -1,5 +1,8 @@
 _repo: Further-Adventures-of-Lad_2392
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Terhune, Albert Payson
@@ -31,6 +34,8 @@ description: "Further Adventures of Lad, also known as Dog Stories Every Child S
   \ series. The first film, Lad: A Dog, was released in June 1962 but it was unsuccessful\
   \ in the box office and the project was dropped. The novel is now a public domain\
   \ work.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2392#Further-Adventures-of-Lad
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2000-11-01'
 gutenberg_type: Text
